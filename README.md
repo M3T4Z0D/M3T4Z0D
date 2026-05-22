@@ -1,4 +1,4 @@
-# Olá, eu sou o Lucas Cabral 👋
+**# Olá, eu sou o Lucas Cabral 👋
 
 Sênior Full-Stack Developer & Systems Architect focado em construir soluções SaaS robustas, escaláveis e resilientes para o mercado corporativo. Fundador da **Zodware**, onde transformo regras de negócio complexas em software de alta performance.
 
@@ -14,25 +14,40 @@ Sênior Full-Stack Developer & Systems Architect focado em construir soluções 
 
 ### 💻 Stack Tecnológica
 
-| Camada | Tecnologias |
-| :--- | :--- |
-| **Backend** | Java (Spring Boot), Go |
-| **Frontend** | TypeScript, JavaScript, Next.js, React, Tailwind CSS |
-| **Banco de Dados** | PostgreSQL, Prisma ORM, Redis, NoSQL |
-| **Infra & DevOps** | Docker, Docker Compose, AWS (S3, CloudFront), Vercel, GitHub Actions, Nginx |
+**Backend & Core:**
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+
+**Frontend:**
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+**Banco de Dados & Cache:**
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+
+**Infra, DevOps & Ferramentas:**
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232088FF.svg?style=for-the-badge&logo=github-actions&logoColor=white)
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 
 ---
 
-### 📊 Atividade no GitHub
+### 📈 Atividade no GitHub
 
-*(Nota: Grande parte do meu desenvolvimento diário e arquitetura de sistemas ocorre em repositórios privados de nível enterprise).*
+*Nota: Grande parte do meu desenvolvimento diário, commmit rate e arquitetura de sistemas ocorre em repositórios privados de nível enterprise e ambientes controlados de produção.*
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=M3T4Z0D&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=M3T4Z0D&layout=compact&theme=dark&langs_count=6)
+Para visualizar meu ritmo de código e histórico de entregas, sinta-se à vontade para conferir o gráfico de contribuições logo abaixo no meu perfil (com a exibição de atividades privadas ativada).
 
 ---
 
 ### 📫 Conecte-se comigo
 
 - 💼 **Business:** [Seu Link do LinkedIn ou Site da Zodware]
-- 📍 **Localização:** Campo Grande - MS, Brasil****
+- 📍 **Localização:** Campo Grande - MS, Brasil******
